@@ -10,3 +10,4 @@ rev.o:rev.c
         gcc -c rev.c
 clean:
         rm -rf *.o
+
